@@ -1,1 +1,3 @@
-These are things to be ignored. 
+*.dat
+results/
+ 
